@@ -6,16 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Developing_v7.2-000000?style=for-the-badge&labelColor=333333" />
-  <img src="https://komarev.com/ghpvc/?username=MochiDev3&color=000000&style=for-the-badge&label=Views" />
 </p>
 
 ---
 
-### Tech Stack and Interests
-* **Embedded:** Developing for ESP32 (TTGO T-Display), custom firmware, and hardware prototyping.
-* **Software:** Python (scripting, automation), C++ for low-level systems.
+### Tech Stack
+* **Embedded:** ESP32 (TTGO T-Display), custom firmware, hardware prototyping.
+* **Software:** Python, C++ for low-level systems.
 * **OS:** Linux (Arch, Fedora, Ubuntu).
-* **Focus:** Game development, hardware modding, and technical troubleshooting.
 
 ---
 
@@ -25,12 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="38%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MochiDev3&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff" width="100%" />
-</p>
-
 ---
 
 <p align="center">
-  <i>"I just want a quiet life..."</i> — Yoshikage Kira
+  <i>"I just want a quiet life."</i> — Yoshikage Kira
 </p>
