@@ -5,7 +5,7 @@
 <h1 align="center">MochiDev3</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Developing_v7.2-000000?style=for-the-badge&labelColor=333333" />
+  <img src="https://img.shields.io/badge/Status-Developing-000000?style=for-the-badge&labelColor=333333" />
 </p>
 
 ---
