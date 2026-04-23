@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  <i>"I just want a quiet life."</i> — Yoshikage Kira
+  <i>"I just want a quiet life."</i>
 </p>
