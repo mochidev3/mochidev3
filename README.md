@@ -47,6 +47,15 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
+---
+
+### Brainfuck Category
+<p align="left">
+  <img src="./HolyCbadge.png" height="28" alt="HolyC Language" />
+</p>
+
+---
+
 <p align="center">
   <i>"I just want a quiet life."</i>
 </p>
