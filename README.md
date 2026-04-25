@@ -2,7 +2,6 @@
   <img src="banner.png" alt="MochiDev3 Banner" width="100%">
 </p>
 
-<h1 align="center">MochiDev3</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Developing-000000?style=for-the-badge&labelColor=333333" />
