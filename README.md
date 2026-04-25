@@ -13,7 +13,7 @@
 ### Tech Stack
 * **Embedded:** ESP32 (TTGO T-Display), custom firmware, hardware prototyping.
 * **Software:** Python, C++ for low-level systems.
-* **OS:** Linux Bubuntu 24.04 LTS.
+* **OS:** Arch Linux
 
 ---
 
