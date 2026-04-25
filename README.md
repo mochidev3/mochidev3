@@ -2,11 +2,6 @@
   <img src="banner.png" alt="MochiDev3 Banner" width="100%">
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Developing-000000?style=for-the-badge&labelColor=333333" />
-</p>
-
 ---
 
 ### Tech Stack
