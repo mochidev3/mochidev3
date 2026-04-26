@@ -48,7 +48,7 @@
 
 <h3>Distros I've tried:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,fedora&theme=dark" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" height="50"" />
 </p>
 
 ---
