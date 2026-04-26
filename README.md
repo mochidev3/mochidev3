@@ -14,10 +14,7 @@
 ### Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MochiDev3&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
 </p>
 
 ---
