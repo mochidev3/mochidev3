@@ -48,9 +48,10 @@
 
 <h3>Distros I've tried:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" height="50"" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/KDE_Neon-4D7ED9?style=flat-square&logo=kde&logoColor=white" height="50" />
 </p>
-
 ---
 
 <p align="center">
