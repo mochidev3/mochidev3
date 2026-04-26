@@ -14,7 +14,7 @@
 ### Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MochiDev3&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochiDev3&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&v=2" />
 </p>
 
 ---
@@ -41,6 +41,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
