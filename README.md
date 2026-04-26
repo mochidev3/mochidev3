@@ -22,17 +22,7 @@
 ### Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MicroPython-000000?style=for-the-badge&logo=micropython&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,linux&theme=dark" />
 </p>
 
 ---
@@ -47,6 +37,18 @@
 ### Brainfuck Category
 <p align="left">
   <img src="./HolyCbadge.png" height="28" alt="HolyC Language" />
+</p>
+
+---
+
+<h3>Using now:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arch,kde&theme=dark" />
+</p>
+
+<h3>Distros I've tried:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fedora,ubuntu&theme=dark" />
 </p>
 
 ---
