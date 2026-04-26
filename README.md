@@ -36,7 +36,7 @@
 
 ### Brainfuck category
 <p align="left">
-  <img src="holyc.png" width="48" height="48" alt="HolyC" />
+  <img src="holyc.png" width="50" height="56" alt="HolyC" />
 </p>
 ---
 
