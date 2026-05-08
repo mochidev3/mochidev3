@@ -5,7 +5,7 @@
 ---
 
 ### Tech Stack
-* **Embedded:** ESP32 (TTGO T-Display), custom firmware, hardware prototyping.
+* **Embedded:** CYD 2432S028, M5StickC Plus2
 * **Software:** Python, C++ for low-level systems.
 * **OS:** Arch Linux
 
